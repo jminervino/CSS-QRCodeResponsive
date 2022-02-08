@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Karla:wght@400;700&family=Titillium+Web:wght@600&display=swap');
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+}
+
+img {
+    width: 300px;
+    border-radius: 8px;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    max-width: 1440px;
+}
+
+.qrcode {
+    padding: 15px;
+}

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Karla:wght@400;700&family=Titillium+Web:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+}
+
+img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+.negrito {
+    font-weight: 700;
+    margin: 10px;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    max-width: 1440px;
+    border-radius: 10px;
+}
+
+
+.textscan {
+    text-align: center;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+.qrcode {
+    padding: 15px;
+}
